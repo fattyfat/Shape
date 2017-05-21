@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <stroke android:width="0.5dp" android:color="@color/white"/>
+            <padding android:left="15dp" android:right="15dp" android:bottom="5dp" android:top="5dp"/>
+            <gradient android:startColor="#000000" android:endColor="#000000" android:angle="0.0" />
+            <corners android:topLeftRadius="0dp" android:topRightRadius="6dp" android:bottomLeftRadius="0dp" android:bottomRightRadius="6dp" />
+        </shape>
+    </item>
+</selector>
