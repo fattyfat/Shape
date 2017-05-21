@@ -6,7 +6,7 @@ Shape繪圖 (改自Android群英傳例題)
 
 * Tab1~3：radio button兼top bar。選擇後會出現紅底線條強調。
 * 圈圈：progress bar。
-* 左邊右邊：左邊和右邊是不同的繪圖組見，組合起來。
+* 左邊右邊：左邊和右邊是不同的繪圖組件，組合起來。
 * Shadow button：按下會出現陰影
 * arc text view：弧邊text view
 * 默認按鈕：使用selector對靜態按鈕進行不同事件的反饋。(ex:初始狀態：按鈕背景灰色；觸碰狀態：亮藍色；非焦點狀態：亮黃色)
